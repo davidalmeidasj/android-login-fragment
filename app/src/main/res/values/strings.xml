@@ -1,3 +1,10 @@
 <resources>
+    <string name="facebook_app_id">426770311076833</string>
+    <string name="fb_login_protocol_scheme">fb426770311076833</string>
     <string name="app_name">LoginFragment</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="registrar">Registrar</string>
+    <string name="esqueci_senha">Esqueci senha</string>
 </resources>
